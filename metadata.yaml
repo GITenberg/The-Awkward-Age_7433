@@ -1,0 +1,42 @@
+_repo: The-Awkward-Age_7433
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: "The Awkward Age is a novel by Henry James, first published as a serial\
+  \ in Harper's Weekly in 1898-1899 and then as a book later in 1899. Originally conceived\
+  \ as a brief, light story about the complications created in her family's social\
+  \ set by a young girl coming of age, the novel expanded into a general treatment\
+  \ of decadence and corruption in English fin de siècle life. James presents the\
+  \ novel almost entirely in dialogue, an experiment that adds to the immediacy of\
+  \ the scenes but also creates serious ambiguities about characters and their motives.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7433'
+  wikidata: Q3867271
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mothers and daughters -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Bildungsromans'
+- GITenberg
+title: The Awkward Age
+url: http://www.gutenberg.org/ebooks/7433
+wikipedia:
+- https://fr.wikipedia.org/wiki/L%27%C3%82ge_difficile
+- https://en.wikipedia.org/wiki/The_Awkward_Age
+- https://it.wikipedia.org/wiki/L%27et%C3%A0_ingrata
+- https://pt.wikipedia.org/wiki/The_Awkward_Age
