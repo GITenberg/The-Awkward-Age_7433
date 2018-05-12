@@ -1,5 +1,8 @@
 _repo: The-Awkward-Age_7433
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: James, Henry
@@ -16,6 +19,8 @@ description: "The Awkward Age is a novel by Henry James, first published as a se
   \ novel almost entirely in dialogue, an experiment that adds to the immediacy of\
   \ the scenes but also creates serious ambiguities about characters and their motives.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7433#The-Awkward-Age
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
 identifiers:
